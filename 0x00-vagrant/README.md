@@ -1,3 +1,3 @@
-# Welcome to the Zero day Project
+# Assignment 0x00. Vagrant #
 
-No more question like: "This code is working on my computer, how isn't it working on yours?"
+0. Hello Ubuntu -- This directory contains the file 0-hello_ubuntu, which prints out the result of the command uname when run without any option.
